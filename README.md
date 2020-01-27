@@ -1,7 +1,6 @@
 # MachineLearning Demonstrator
 
-https://github.com/pa-blan/pyAudioProcessing
-
+https://github.com/jsingh811/pyAudioProcessing
 
 
 ### Anleitung Demonstrator für Machine learning: ###
