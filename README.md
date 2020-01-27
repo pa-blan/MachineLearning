@@ -10,7 +10,7 @@ Der Verwendete und geschriebene Code befindet sich im Order "Code"
 2. Da in den benötigten Bibliotheken C Code hinterlegt ist benötigt man einen C/C++ Compiler, funktioniert über Visual Studio IDE oder über Visual Studio Express, C/C++ Umgebung muss aber separat geruntergeladen werden
 2. Neue Python 3.7 Umgebung auf Anaconda anlegen und für folgende Schritte verwenden
 3. pyAudio Bibliotek installieren 
-4. Anleitung auf github Represetory ausführen https://github.com/pa-blan/pyAudioProcessing
+4. Anleitung auf github Represetory ausführen https://github.com/jsingh811/pyAudioProcessing
 	git clone git@github.com:jsingh811/pyAudioProcessing.git
 	cd C:\Users\Benutzer\pyAudioProcessing
 	pip install -e .
@@ -26,10 +26,10 @@ Der Verwendete und geschriebene Code befindet sich im Order "Code"
 
 Möglicherweise funktioniert das Programm auch auf einem Raspberry Pi 4, wurde aber aus Zeitgründen nicht getestet :-\
 
-Bei Problemen https://github.com/pa-blan/ kontaktieren
+Bei Problemen https://github.com/pa-blan/ kontaktieren oder in https://github.com/jsingh811/pyAudioProcessing
 
 Möglicherweise wird die Gui noch angepasst und verbessert
 
-Mfg Pascal Blansche
+Mfg Pascal
 
 
