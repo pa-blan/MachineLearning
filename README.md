@@ -2,7 +2,6 @@
 
 https://github.com/jsingh811/pyAudioProcessing
 
-
 ### Anleitung Demonstrator für Machine learning: ###
 Der Verwendete und geschriebene Code befindet sich im Order "Code" 
 
@@ -26,7 +25,7 @@ Der Verwendete und geschriebene Code befindet sich im Order "Code"
 
 Möglicherweise funktioniert das Programm auch auf einem Raspberry Pi 4, wurde aber aus Zeitgründen nicht getestet :-\
 
-Bei Problemen https://github.com/pa-blan/ kontaktieren oder in https://github.com/jsingh811/pyAudioProcessing
+Bei Problemen https://github.com/pa-blan/ kontaktieren
 
 Möglicherweise wird die Gui noch angepasst und verbessert
 
