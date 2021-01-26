@@ -21,12 +21,5 @@ Der Verwendete und geschriebene Code befindet sich im Order "Code"
 11. Drei Buttons werden in einer GUI angezeicht, "Aufnehmen" dient dazu um die Trainingsdaten aufzunehmen (jeweils 10x je 10 Sekunden nach rechts und links), der Fortschritt wird in der kommandozeile ausgegeben, "Einlernen" nimmt die Trainingsdaten und trainiert die SVM , via "Testen" kann ein neues Soundfile aufgenommen werden und validiert werden, ob nach rechts oder links gedreht wurde
 12. Jetzt sind Sie Fertig.
 
-Möglicherweise funktioniert das Programm auch auf einem Raspberry Pi 4, wurde aber aus Zeitgründen nicht getestet.
-
-Bei Problemen https://github.com/pa-blan/ kontaktieren
-
-Möglicherweise wird die GUI noch angepasst und verbessert
-
-Mfg Pascal
 
 
