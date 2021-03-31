@@ -1,0 +1,1 @@
+﻿grid_snap no

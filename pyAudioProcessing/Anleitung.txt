@@ -1,0 +1,17 @@
+Anleitung Demonstrator Machine learning:
+1. Anaconda herunterladen und starten https://www.anaconda.com/distribution/ (Python Distribution)
+2. Neue Python 3.7 Umgebung anlegen 
+3. pyAudio installieren
+4. Anleitung auf github Represetory ausführen https://github.com/pa-blan/pyAudioProcessing
+5. In Angelegten Order gehen, wahrscheinlich auf C:\Users\Benutzer\pyAudioProcessing
+6. Unter C:\Users\Benutzer\pyAudioProcessing\data_samples\training Inhalt löschen und zwei Ordner mit Bezeichnung "links" und "rechts" anlegen
+7. Unter C:\Users\Benutzer\pyAudioProcessing\data_samples\testing Inhalt löschen und einen Ordner mit Bezeichnung "test" anlegen
+8. Aus diesem Ordner die Ordner "App", "plt", "qt" und "Sonstiges" in das Verzeichnis C:\Users\Benutzer\pyAudioProcessing kopieren
+9. In Verzeichnis die Dartei Main.py Ausführen
+10. Fertig.
+
+Bei Problemen https://github.com/pa-blan/ anschreiben
+
+Möglicherweise wird die Gui noch angepasst und verbessert
+
+Mfg Pascal Blansche

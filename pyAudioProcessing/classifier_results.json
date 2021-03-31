@@ -1,0 +1,14 @@
+{
+ "data_samples/testing\\test": {
+  "test.wav": {
+   "probabilities": [
+    0.8113466566380347,
+    0.18865334336196518
+   ],
+   "classes": [
+    "links",
+    "rechts"
+   ]
+  }
+ }
+}
