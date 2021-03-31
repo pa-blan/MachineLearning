@@ -1,4 +1,4 @@
-# MachineLearning Demonstrator
+# Machine Learning Demonstrator
 
 ### Anleitung Demonstrator für Machine learning: ###
 Der Verwendete und geschriebene Code befindet sich im Order "Code" 
